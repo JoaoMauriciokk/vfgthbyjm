@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Science+Gothic:wght@100..900&display=swap');
+
+:root{
+    ---cor-de-fundo:#000000;
+    ---cor-da-letra:#51ff00;
+}
+body{
+    background-color: var(---cor-de-fundo);
+    color:var(---cor-da-letra);
+    text-align: center;
+    
+}
